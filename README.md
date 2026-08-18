@@ -2,7 +2,7 @@
 
 I'm **Archit Dhruw**, a student from India interested in **Geography, GIS, technology, and software development**. 🌍💻
 
-When I'm not studying, you'll probably find me gaming, experimenting with tech, or working on some random project idea. 🎮☕
+When I'm not studying, you'll probably find me gaming, experimenting with tech, or working on some random project idea. ☕
 
 ## 🚀 My interests
 
@@ -33,4 +33,3 @@ When I'm not studying, you'll probably find me gaming, experimenting with tech, 
 
 ---
 
-> *Study. Build. Race. Repeat. 🏎️💻🌍*
