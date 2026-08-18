@@ -1,11 +1,36 @@
-# Archit-Dhruw
-  I'm Archit Dhruw, a student and aspiring Geospatial & Technology enthusiast from India.
+# Hi there 👋
 
-  🚀 What I'm currently learning
- 
-  🌍 Geography & Geospatial Technologies
-  🗺️ GIS & QGIS
-  💻 Web Development
-  🐍 Python
-  📊 Data & Spatial Analysis
-  🤖 AI & emerging technologies
+I'm **Archit Dhruw**, a student from India interested in **Geography, GIS, technology, and software development**. 🌍💻
+
+When I'm not studying, you'll probably find me gaming, experimenting with tech, or working on some random project idea. 🎮☕
+
+## 🚀 My interests
+
+- 🌍 Geography & Geospatial Technology
+- 🗺️ GIS & Spatial Analysis
+- 💻 Web Development
+- 🤖 AI & Technology
+- 🎮 Gaming & Sim Racing
+- 📊 Data & Visualization
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, JavaScript
+- **Web:** HTML, CSS, React
+- **GIS:** QGIS, ArcGIS
+- **Tools:** Git, GitHub, VS Code
+
+## 🎯 Currently working on
+
+- Learning GIS & geospatial technologies
+- Improving my programming skills
+- Building personal projects
+- Exploring AI and data
+
+## 📫 How to reach me
+
+- **GitHub:** [Archit Dhruw](https://github.com/)
+
+---
+
+> *Study. Build. Race. Repeat. 🏎️💻🌍*
