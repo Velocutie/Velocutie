@@ -30,6 +30,7 @@ When I'm not studying, you'll probably find me gaming, experimenting with tech, 
 ## 📫 How to reach me
 
 - **GitHub:** [Archit Dhruw](https://github.com/)
+- **Instagram** [arc.hyt_0.0](https://www.instagram.com/arc.hyt_0.0)
 
 ---
 
