@@ -18,7 +18,7 @@ When I'm not studying, you'll probably find me gaming, experimenting with tech, 
 - **Languages:** Python, JavaScript
 - **Web:** HTML, CSS, React
 - **GIS:** QGIS, ArcGIS
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code, Cursor
 
 ## 🎯 Currently working on
 
