@@ -31,7 +31,7 @@ When I'm not studying, you'll probably find me gaming, experimenting with tech, 
 
 - **Instagram** [arc.hyt_0.0](https://www.instagram.com/arc.hyt_0.0)
 - **X** [Archit Dhruw](https://x.com/archyt_00)
-- **LinkedIN** [Archit Dhruw](www.linkedin.com/in/archit-dhruw-30b488431)
+- **LinkedIN** [Archit Dhruw](https://www.linkedin.com/in/archit-dhruw-30b488431/)
 
 ---
 
